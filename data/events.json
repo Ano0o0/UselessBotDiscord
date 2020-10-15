@@ -1,0 +1,1 @@
+[null,{"name":"status","temp":"1","event-type":"3","_id":"VYWEv","actions":[{"gameName":"type - heh!add | I have ${tempVars(\"users\")} users! YEAH","gameLink":"","name":"Set Bot Game"},{"info":"4","storage":"1","varName2":"users","name":"Store Bot Client Info"}]}]
